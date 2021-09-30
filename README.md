@@ -1,4 +1,4 @@
-### Hello! My name is Igor Duarte 😁
+### Hello! I'm Igor Duarte 😁
 
 - 🔭 I’m currently working with Front-end development
 - 🌱 I’m currently learning Typescript
