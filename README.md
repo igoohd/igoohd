@@ -1,7 +1,7 @@
 ### Hello! I'm Igor Duarte 😁
 
 - 🔭 I’m currently working with Front-end development
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning NodeJs
 - 👨 Pronouns: him / his
 
 <div align="center">
